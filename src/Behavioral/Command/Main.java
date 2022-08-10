@@ -28,7 +28,5 @@ public class Main {
 
         System.out.println("\n");
         server.printUsers();
-
-        System.out.println("Test");
     }
 }
